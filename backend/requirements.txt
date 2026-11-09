@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+torch
+torchaudio
+nemo_toolkit[asr]
+soundfile
+pypdf
+python-docx
+httpx
+python-dotenv
+imageio-ffmpeg
